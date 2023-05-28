@@ -1,0 +1,40 @@
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe.config
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).pdb
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.AssemblyReference.cache
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.main.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.Properties.Resources.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.GenerateResource.cache
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.CoreCompileInputs.cache
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).pdb
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.EMPLOYEE1.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.CopyComplete
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.EMPLOYEE2.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.PRODUCT.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.product_recall.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.product_sales.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.member.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.payment.resources
+C:\Users\김유경\source\repos\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\Oracle.DataAccess.dll
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe.config
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).pdb
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\bin\Debug\Oracle.DataAccess.dll
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.AssemblyReference.cache
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.EMPLOYEE2.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.MAIN.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.EMPLOYEE1.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.member.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.payment.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.PRODUCT.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.product_recall.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.product_sales.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈_관리시스템_장동휘__안기백__이선우_.Properties.Resources.resources
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.GenerateResource.cache
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).csproj.CopyComplete
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).exe
+D:\Documents\Desktop\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우)\obj\Debug\DBP_오전반_7조_김동희_나이키슈즈 관리시스템(장동휘, 안기백, 이선우).pdb
